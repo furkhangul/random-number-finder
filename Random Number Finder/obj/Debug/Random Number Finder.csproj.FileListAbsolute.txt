@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\Random Number Finder\Random Number Finder\bin\Debug\Random Number Finder.exe.config
+C:\Users\Furkan\source\repos\Random Number Finder\Random Number Finder\bin\Debug\Random Number Finder.exe
+C:\Users\Furkan\source\repos\Random Number Finder\Random Number Finder\bin\Debug\Random Number Finder.pdb
+C:\Users\Furkan\source\repos\Random Number Finder\Random Number Finder\obj\Debug\Random Number Finder.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\Random Number Finder\Random Number Finder\obj\Debug\Random Number Finder.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Random Number Finder\Random Number Finder\obj\Debug\Random Number Finder.exe
+C:\Users\Furkan\source\repos\Random Number Finder\Random Number Finder\obj\Debug\Random Number Finder.pdb
